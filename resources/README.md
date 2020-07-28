@@ -1,10 +1,14 @@
 ## Official Website
  - https://webassembly.org
 
-## Specifications
+## Documentation
+
+#### Specifications
  - [Core on webpage](https://webassembly.github.io/spec/core)
  - [Core on PDF](https://webassembly.github.io/spec/core/_download/WebAssembly.pdf)
- - [Core on Github](https://github.com/WebAssembly/design)
+
+#### Other documentations
+ - [Design doc on Github](https://github.com/WebAssembly/design)
 
 ## Awesome Lists
 
