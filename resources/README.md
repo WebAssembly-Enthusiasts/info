@@ -9,7 +9,7 @@
 ## Awesome Lists
 
  - [Awesome Wasm](https://github.com/mbasso/awesome-wasm)<br/>
- Collection of awesome things regarding WebAssembly (wasm) ecosystem.
+ Collection of general awesome things regarding WebAssembly ecosystem.
  - [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs)<br/>
  Collection of languages that currently compile to or have their VMs in WebAssembly.
  - [Awesome WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes)<br/>
