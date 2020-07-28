@@ -1,1 +1,2 @@
-info
+### FAQ
+- [ru](./FAQ-ru.md)
