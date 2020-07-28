@@ -1,9 +1,3 @@
-### Введение
-Данный FAQ был специально создан для телеграм сообщества https://t.me/WebAssembly_ru.
-
-Он базируется на [статье от Andre Weissflog](https://floooh.github.io/2017/06/09/webassembly-demystified.html),
-но так же содержит множество моих дополнений и мыслей, которые могут быть уже не слишком актуальны на момент прочтения. Прошу это учитывать.
-
 ### 0. Какие цели у WebAssembly?
 
 - Определение переносимого двоичного формата с эффективным размером и временем загрузки, который будет служить целью компиляции и выполняться с предсказуемой скоростью и детерминированным поведением в рамках среды выполнения;
@@ -155,8 +149,4 @@ WASI (WebAssembly System Interface) - это проект ABI от Mozilla, ко
 - https://wasmbyexample.dev
 - https://webassembly.studio
 
-
-#### Автор
-- Max Graey @ 2020
-- Telegram: @maxgraey
-- Twitter: https://twitter.com/MaxGraey
+- WebAssembly Enthusiasts @ 2020
