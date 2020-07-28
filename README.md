@@ -1,2 +1,2 @@
 ### FAQ
-- [ru](./FAQ-ru.md)
+- [ru](./FAQ/ru.md)
