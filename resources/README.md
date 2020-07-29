@@ -6,6 +6,10 @@
  - [Core on webpage](https://webassembly.github.io/spec/core)
  - [Core on PDF](https://webassembly.github.io/spec/core/_download/WebAssembly.pdf)
 
+#### Proposals
+ - [Proposals Roadmap](https://webassembly.org/roadmap)
+ - [Proposals repo on Github](https://github.com/WebAssembly/proposals)
+
 #### Other
  - [MDN WebAssembly Documentation](https://developer.mozilla.org/en-US/docs/WebAssembly)
  - [Design doc on Github](https://github.com/WebAssembly/design)
