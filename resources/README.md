@@ -25,5 +25,5 @@
  - [Awesome WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes)<br/>
  Collection of virtual machines and tools that execute the WebAssembly.
 
-## Community & Socials
+## Community & Social Media
  - [Community Group](https://www.w3.org/community/webassembly)
