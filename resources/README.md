@@ -16,6 +16,15 @@
 ## Articles
  - [A cartoon intro to WebAssembly by Lin Clark](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly)
 
+## Made with WebAssembly
+ - Figma
+ [(1)](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
+ [(2)](https://www.figma.com/blog/how-we-built-the-figma-plugin-system)
+ - [Google Earth](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
+ - [AutoCAD Web App](https://blogs.autodesk.com/autocad/autocad-web-app-google-io-2018)
+ - [1Password](https://blog.1password.com/1password-x-may-2019-update)
+ - [GIVE ME MORE!](https://madewithwebassembly.com)
+
 ## Awesome Lists
 
  - [Awesome Wasm](https://github.com/mbasso/awesome-wasm)<br/>
