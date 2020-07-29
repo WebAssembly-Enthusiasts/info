@@ -1,5 +1,4 @@
-## Official Website
- - https://webassembly.org
+### [Official Website](https://webassembly.org)
 
 ## Documentation
 
