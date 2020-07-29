@@ -3,8 +3,7 @@
 ## Documentation
 
 #### Specifications
- - [Core on webpage](https://webassembly.github.io/spec/core)
- - [Core on PDF](https://webassembly.github.io/spec/core/_download/WebAssembly.pdf)
+ - [Core](https://webassembly.github.io/spec)
 
 #### Proposals
  - [Proposals Roadmap](https://webassembly.org/roadmap)
@@ -42,4 +41,6 @@
  Collection of virtual machines and tools that execute the WebAssembly.
 
 ## Community & Social Media
+ - [Telegram (Ru)](https://t.me/WebAssembly_ru)
+ - [Discord (En)](https://discord.gg/ZXvmT6q)
  - [Community Group](https://www.w3.org/community/webassembly)
