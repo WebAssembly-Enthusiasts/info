@@ -28,6 +28,10 @@
  - [1Password](https://blog.1password.com/1password-x-may-2019-update)
  - [GIVE ME MORE!](https://madewithwebassembly.com)
 
+## Playgrounds
+ - [Webassembly Studio](https://webassembly.studio)
+ - [Wasm Explorer](https://mbebenita.github.io/WasmExplorer)
+
 ## Awesome Lists
 
  - [Awesome Wasm](https://github.com/mbasso/awesome-wasm)<br/>
