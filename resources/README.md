@@ -3,7 +3,7 @@
 ## Documentation
 
 #### Specifications
- - [Core](https://webassembly.github.io/spec)
+ - [List of the specs on official website](https://webassembly.github.io/spec)
 
 #### Proposals
  - [Proposals Roadmap](https://webassembly.org/roadmap)
