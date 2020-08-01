@@ -137,6 +137,6 @@ WASI (WebAssembly System Interface) - это проект ABI от Mozilla, ко
 
 Будем надеяться и WebAssembly постигнет такой же успех!
 
-## [Полезные ресурсы](./resources/README.md)
+## [Полезные ресурсы](../resources/README.md)
 
 _WebAssembly Enthusiasts Contributors @ 2020_
