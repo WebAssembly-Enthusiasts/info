@@ -26,7 +26,7 @@
  - [Google Earth](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
  - [AutoCAD Web App](https://blogs.autodesk.com/autocad/autocad-web-app-google-io-2018)
  - [1Password](https://blog.1password.com/1password-x-may-2019-update)
- - [<em>More examples...</em>](https://madewithwebassembly.com)
+ - [*More examples...*](https://madewithwebassembly.com)
 
 ## Playgrounds
  - [Webassembly Studio](https://webassembly.studio)
