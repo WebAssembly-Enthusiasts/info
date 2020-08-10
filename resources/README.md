@@ -10,7 +10,7 @@
  - [Proposals repo on Github](https://github.com/WebAssembly/proposals)
 
 #### Other
- - [Can I Use "WebAssembly"](https://caniuse.com/#search=WebAssembly)
+ - [Can I Use "WebAssembly" in MVP stage](https://caniuse.com/#search=WebAssembly)
  - [MDN WebAssembly Documentation](https://developer.mozilla.org/en-US/docs/WebAssembly)
  - [Design doc on Github](https://github.com/WebAssembly/design)
  - [Interactive Opcode Table](https://pengowray.github.io/wasm-ops)
@@ -26,7 +26,7 @@
  - [Google Earth](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
  - [AutoCAD Web App](https://blogs.autodesk.com/autocad/autocad-web-app-google-io-2018)
  - [1Password](https://blog.1password.com/1password-x-may-2019-update)
- - [***More examples...***](https://madewithwebassembly.com)
+ - [<em>More examples...</em>](https://madewithwebassembly.com)
 
 ## Playgrounds
  - [Webassembly Studio](https://webassembly.studio)
