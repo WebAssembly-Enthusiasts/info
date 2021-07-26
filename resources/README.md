@@ -18,6 +18,7 @@
 
 ## Articles
  - [A cartoon intro to WebAssembly by Lin Clark](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly)
+ - [Introduction to WebAssembly by Rasmus Andersson](https://rsms.me/wasm-intro)
 
 ## Made with WebAssembly
  - Figma
