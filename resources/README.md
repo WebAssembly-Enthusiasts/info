@@ -32,7 +32,7 @@
  - [***More examples...***](https://madewithwebassembly.com)
 
 ## Playgrounds
- - [Webassembly Studio](https://webassembly.studio)
+ - [Webassembly Studio](https://wasm-studio.surge.sh)
  - [Wasm Explorer](https://mbebenita.github.io/WasmExplorer)
 
 ## Awesome Lists
